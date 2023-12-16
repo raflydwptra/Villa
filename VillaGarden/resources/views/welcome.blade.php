@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Gp Bootstrap Template - Index</title>
+    <title>Villa Melati Garden</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -49,7 +49,7 @@
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home1</a></li>
+                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
@@ -88,7 +88,7 @@
 
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
-                    <h1>Powerful Digital Solutions With Gp<span>.</span></h1>
+                    <h1>Villa Melati <span>Garden</span></h1>
                     <h2>We are team of talented digital marketers</h2>
                 </div>
             </div>
@@ -320,8 +320,8 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Portfolio</h2>
-                    <p>Check our Portfolio</p>
+                    <h2>Villa</h2>
+                    <p>Check our Villa</p>
                 </div>
 
                 <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -339,7 +339,7 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                            <img src="assets\img\portfolio\portfolio-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>App 1</h4>
                                 <p>App</p>
@@ -740,9 +740,9 @@
                 </div>
 
                 <div>
-                    <iframe style="border:0; width: 100%; height: 270px;"
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
-                        frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15844.077869102251!2d107.6765333!3d-6.8882713!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68ddd53bf49975%3A0xbca0d46b0fc31de6!2sVilla%20Melati%20Garden!5e0!3m2!1sen!2sid!4v1702650776855!5m2!1sen!2sid"
+                    width="1293" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
                 </div>
 
                 <div class="row mt-5">
@@ -752,13 +752,13 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>Komp. Taman Melati Jl. Pasir Impun No.8 Blok D3, Cikadut, Kec. Cimenyan, Kota Bandung, Jawa Barat 40194</p>
                             </div>
 
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>info@example.com</p>
+                                <p>villamelatigarden@gmail.com</p>
                             </div>
 
                             <div class="phone">

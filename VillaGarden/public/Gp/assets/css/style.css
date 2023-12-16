@@ -212,7 +212,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #000a99;
+  color: #ffc451;
 }
 
 .navbar .dropdown ul {
@@ -733,7 +733,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .portfolio #portfolio-flters {
