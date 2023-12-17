@@ -50,10 +50,10 @@
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Galery</a></li>
+                    <li><a class="nav-link scrollto" href="#hero">Home</a></li>
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                    <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+                    <li><a class="nav-link scrollto " href="#portfolio">Galery</a></li>
                     <li><a class="nav-link scrollto" href="#team">Team</a></li>
                     <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
@@ -97,37 +97,11 @@
             <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
-                        <i class="ri-store-line"></i>
-                        <h3><a href="">Lorem Ipsum</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-bar-chart-box-line"></i>
-                        <h3><a href="">Dolor Sitema</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
                         <i class="ri-calendar-todo-line"></i>
-                        <h3><a href="">Sedare Perspiciatis</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-paint-brush-line"></i>
-                        <h3><a href="">Magni Dolores</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-database-2-line"></i>
-                        <h3><a href="">Nemos Enimade</a></h3>
+                        <h3><a href="/Booking">Book Now</a></h3>
                     </div>
                 </div>
             </div>
-
-        </div>
     </section><!-- End Hero -->
 
     <main id="main">
@@ -306,10 +280,31 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3>Call To Action</h3>
+                    <h3>Our full facilities</h3>
                     <ul>
                         <li class="white-text"
-                            > King Room (Bed King size 180×200), 2 Kamar
+                            > Ruang Tamu dan Teras
+                        </li>
+                        <li class="white-text"
+                            > Gathering Room
+                        </li>
+                        <li class="white-text"
+                            > Family Room
+                        </li>
+                        <li class="white-text"
+                            > Pemancingan Ikan dan perlengkapan pancing
+                        </li>
+                        <li class="white-text"
+                            >Gazebo Taman Belakang
+                        </li>
+                        <li class="white-text"
+                            > Rumah Pohon Anak dan Taman Bermain Anak
+                        </li>
+                        <li class="white-text"
+                            > Mushola
+                        </li>
+                        <li class="white-text"
+                            > Perapian dan Alat Barbeque
                         </li>
                     <a class="cta-btn" href="#">Call To Action</a>
                 </div>
@@ -521,13 +516,15 @@
                             <div class="testimonial-item">
                                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
                                     alt="">
-                                <h3>Saul Goodman</h3>
-                                <h4>Ceo &amp; Founder</h4>
+                                <h3>RAFLY DWIPUTRA NOOR FADHILA</h3>
+                                <h4>Project Manager</h4>
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                    rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                    risus at semper.
+                                    saat pertama kali tiba, saya disambut oleh kehijauan taman yang indah,
+                                    dengan bunga-bunga yang bermekaran di sekelilingnya. Villa itu sendiri
+                                    sangat bersih dan rapi, dengan kamar-kamar yang luar dan nyaman.
+                                    saya merasa seolah-olah saya berada di rumah sendiri. Ada juga kolam
+                                    renang yang menakjubkan di mana saya bisa bersantai dan menikmati suasana Villa
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
                             </div>
@@ -537,13 +534,13 @@
                             <div class="testimonial-item">
                                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
                                     alt="">
-                                <h3>Sara Wilsson</h3>
+                                <h3>AFTA ALFADHILLA</h3>
                                 <h4>Designer</h4>
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                    cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                                    legam anim culpa.
+                                    pengalaman kami menginap di Villa Melati Garden benar-benar luar bisa.
+                                    Villa ini adalah perpaduan yang sempurna antara kenymanan modern dan
+                                    kecantikan alam yang menakjubkan
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
                             </div>
@@ -553,13 +550,13 @@
                             <div class="testimonial-item">
                                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img"
                                     alt="">
-                                <h3>Jena Karlis</h3>
+                                <h3>MUHAMMAD AKBAR DWI PUTRA</h3>
                                 <h4>Store Owner</h4>
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
-                                    veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint
-                                    minim.
+                                    saya sangat cukup terkesan dengan indahnya pengalaman kami di Villa Melati Garden.
+                                    Dari saat pertama kali tiba, Kami merasa dikelilingi oleh keindahan alam yang sejuk.
+                                    Kamar kami luar, nyaman dan dipenuhi dengan dekorasi yang menawan.
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
                             </div>
@@ -569,13 +566,11 @@
                             <div class="testimonial-item">
                                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img"
                                     alt="">
-                                <h3>Matt Brandon</h3>
+                                <h3>MEISYA ROBIATUL ADAWIYAH</h3>
                                 <h4>Freelancer</h4>
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
-                                    fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem
-                                    dolore labore illum veniam.
+                                    pemandangannya bagus banget, indah dan sejuk. hati saya sangai damai
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
                             </div>
@@ -585,13 +580,12 @@
                             <div class="testimonial-item">
                                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img"
                                     alt="">
-                                <h3>John Larson</h3>
+                                <h3>AULIA NISA'HAFIDZ</h3>
                                 <h4>Entrepreneur</h4>
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                    veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                    culpa fore nisi cillum quid.
+                                    fasilitas villa disini sangat banyak, aku tidak menyangkan ada villa yang dapat
+                                    memancing ikan, udara disini juga sangat enak sejuk, dan bersih
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
                             </div>

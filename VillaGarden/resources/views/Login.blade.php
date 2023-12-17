@@ -260,7 +260,7 @@ input[type="email"], input[type="password"] {
                     </a>
                 </div>
                 <div class="toggle-panel toggle-right">
-                    <img src="img/LogoVilla.png" alt="Logo villa"  width="300" height="70">
+                    <img src="{{ asset('Gp/assets/img/LogoVilla.png')}}" alt="Logo villa"  width="300" height="70">
                     <p> You Can Register with your personal detail to use all of site features</p>
                     <a href="/Sign up">
                         <button class="hidden" id="/Sign up">Sign Up</button>

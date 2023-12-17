@@ -267,12 +267,12 @@ body{
                     </a>
                 </div>
                 <div class="toggle-panel toggle-right">
-                    <img src="img/LogoVilla.png" alt="Logo villa"  width="300" height="70">
+                    <img src="{{ asset('Gp/assets/img/LogoVilla.png')}}" alt="Logo villa"  width="300" height="70">
                     <p>If you already have an account, click sign in</p>
                     <a href="/login">
                         <button class="hidden" id="/signin">Sign in</button>
                     </a>
-                    <p><a href="/dashboard ">ADMIN</a></p>
+                    <p><a href="/">ADMIN</a></p>
                 </div>
             </div>
         </div>
