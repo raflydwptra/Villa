@@ -20,7 +20,7 @@
 
 .main_bg{
     background-image: url('Gp/assets/img/background.jpg');
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: black;
     height: 800px;
     display: flex;
     justify-content: center;
@@ -92,7 +92,7 @@
 #submit input{
     font-family: 'Montserrat', cursive;
     width: 200px;
-    background-color: yellow !important;
+    background-color:#ffca00 !important;
     color: black !important;
     transition: all .3s;
 }
@@ -119,7 +119,7 @@
 color:black
 }
 
-/* make by ruhul amin */
+
     </style>
 </head>
 

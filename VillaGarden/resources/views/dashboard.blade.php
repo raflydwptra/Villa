@@ -31,11 +31,7 @@
     <link href="{{ asset('Gp/assets/css/style.css') }}" rel="stylesheet">
 
     <!-- =======================================================
-  * Template Name: Gp
-  * Updated: Nov 25 2023 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
+
   ======================================================== -->
 </head>
 
@@ -44,9 +40,11 @@
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center justify-content-lg-between">
-            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- Foto Logo -->
             <a href="index.html" class="logo me-auto me-lg-0"><img src="Gp\assets\img\LogoVilla.png" alt=""
                     class="img-fluid"></a>
+
+                    <!-- .navbar -->
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
@@ -54,25 +52,7 @@
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">Galery</a></li>
-                    <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a href="#">Drop Down 1</a></li>
-                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
-                                        class="bi bi-chevron-right"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Drop Down 1</a></li>
-                                    <li><a href="#">Deep Drop Down 2</a></li>
-                                    <li><a href="#">Deep Drop Down 3</a></li>
-                                    <li><a href="#">Deep Drop Down 4</a></li>
-                                    <li><a href="#">Deep Drop Down 5</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Drop Down 2</a></li>
-                            <li><a href="#">Drop Down 3</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                        </ul>
-                    </li>
+                    <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -83,7 +63,7 @@
         </div>
     </header><!-- End Header -->
 
-    <!-- ======= Hero Section ======= -->
+    <!-- ======= Booking section ======= -->
     <section id="hero" class="d-flex align-items-center justify-content-center">
         <div class="container" data-aos="fade-up">
 
@@ -102,7 +82,7 @@
                     </div>
                 </div>
             </div>
-    </section><!-- End Hero -->
+    </section><!-- End Booking section -->
 
     <main id="main">
 
@@ -116,97 +96,58 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                         data-aos-delay="100">
-                        <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                        <h3>Deskripsi Singkat Villa Melati Garden</h3>
                         <p class="fst-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore
-                            magna aliqua.
-                        </p>
-                        <ul>
-                            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat.</li>
-                            <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in
-                                voluptate velit.</li>
-                            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda
-                                mastiro dolore eu fugiat nulla pariatur.</li>
-                        </ul>
-                        <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                            reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                            proident
+                            Villa Melati Garden terletak di Perumahan Taman Melati, jl. Pasir
+                            Impun-Sukamiskin, Bandung, merupakan perumahan asri yang terletak
+                            diperbukitan, dengan udara bersih dan sejuk. Letaknya berada dipusat
+                            wisata populer kota Bandung dan tidak terlalu jauh dari kota Lembang,
+                            membuat lokasi Villa Melati Garden menjadi peristirahatan yang sangat menarik
+                            dan strategis untuk dikunjungi wisatawan maupun pebisnis.
+                            Villa Melati Garden memiliki konsep menarik, dengan design Villa Kayu yang unik,
+                            yang dirancang menjadi sebuah penginapan berkonsep Family Guest House yang nyaman
+                            dan private bagi anda bersama keluarga.
                         </p>
                     </div>
                 </div>
-
             </div>
         </section><!-- End About Section -->
 
-        <!-- ======= Clients Section ======= -->
-        <section id="clients" class="clients">
-            <div class="container" data-aos="zoom-in">
-
-                <div class="clients-slider swiper">
-                    <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid"
-                                alt=""></div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section><!-- End Clients Section -->
-
-        <!-- ======= Features Section ======= -->
+        <!-- ======= Deskripsi singkat Section ======= -->
         <section id="features" class="features">
             <div class="container" data-aos="fade-up">
 
                 <div class="row">
-                    <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
+                    <div class="image col-lg-6" style='background-image: url("Gp/assets/img/afteredit.png");'
                         data-aos="fade-right"></div>
                     <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-receipt"></i>
-                            <h4>Est labore ad</h4>
-                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                            <i class="bx bx-credit-card"></i>
+                            <h4>Affordable</h4>
+                            <p>dengan harga yang terjangkau, villa ini sangat untuk cocok Keluarga/organisasi yang sedang mencari tempat liburan dengan jumlah orang banyak </p>
                         </div>
                         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-cube-alt"></i>
-                            <h4>Harum esse qui</h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                            <i class="bx bx-calendar-event"></i>
+                            <h4>Special Event</h4>
+                            <p>Selain Villa ini untuk tempat beristirahat, villa ini juga dapat dijadikan tempat untuk berbagai speicial event contohnya seperti (Acara Pernikahan, Ulang Tahun, Gathering, dll)</p>
                         </div>
                         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-images"></i>
-                            <h4>Aut occaecati</h4>
-                            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                            <i class="bx bx-leaf"></i>
+                            <h4>Fresh Air</h4>
+                            <p>Villa ini dikelilingi oleh tumbuhan hijau, membuat udara disekitar villa ini menjadi sejuk dan nyaman</p>
                         </div>
                         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                            <i class="bx bx-shield"></i>
-                            <h4>Beatae veritatis</h4>
-                            <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                            <i class="bx bx-check-shield"></i>
+                            <h4>Guaranteed Comfort</h4>
+                            <p>Kami menjamin Kenyamanan para customer, karena kenymanan untuk customer adalah prioritas kami</p>
                         </div>
                     </div>
                 </div>
 
             </div>
-        </section><!-- End Features Section -->
+        </section><!-- End Deskripsi singkat Section -->
 
-        <!-- ======= Services Section ======= -->
+        <!-- ======= Facilities Section ======= -->
         <section id="services" class="services">
             <div class="container" data-aos="fade-up">
 
@@ -239,7 +180,7 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4><a href="">Ring Basket</a></h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <p>Area dengan ring basket untuk bermain</p>
                         </div>
                     </div>
 
@@ -248,16 +189,16 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-wifi"></i></div>
                             <h4><a href="">Wifi</a></h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <p>Anda dapat menikmati WIFI secara gratis</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
                         data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bx bx-slideshow"></i></div>
-                            <h4><a href="">TV</a></h4>
-                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                            <div class="icon"><i class="bx bx-shower"></i></div>
+                            <h4><a href="">Shower</a></h4>
+                            <p>Anda tidak perlu takut kalau kedinginan, kami sudah menyediakan water heather</p>
                         </div>
                     </div>
 
@@ -273,9 +214,9 @@
                 </div>
 
             </div>
-        </section><!-- End Services Section -->
+        </section><!-- End Facilities Section -->
 
-        <!-- ======= Cta Section ======= -->
+        <!-- ======= Full Facilities Section ======= -->
         <section id="cta" class="cta">
             <div class="container" data-aos="zoom-in">
 
@@ -306,13 +247,12 @@
                         <li class="white-text"
                             > Perapian dan Alat Barbeque
                         </li>
-                    <a class="cta-btn" href="#">Call To Action</a>
                 </div>
 
             </div>
-        </section><!-- End Cta Section -->
+        </section><!-- End Full Facilities Section -->
 
-        <!-- ======= Portfolio Section ======= -->
+        <!-- ======= Dokumentasi Section ======= -->
         <section id="portfolio" class="portfolio">
             <div class="container" data-aos="fade-up">
 
@@ -440,9 +380,9 @@
                 </div>
 
             </div>
-        </section><!-- End Portfolio Section -->
+        </section><!-- End Dokumentasi Section -->
 
-        <!-- ======= Counts Section ======= -->
+        <!-- ======= Peraturan Section ======= -->
         <section id="counts" class="counts">
             <div class="container" data-aos="fade-up">
 
@@ -452,53 +392,36 @@
                     <div class="col-xl-7 ps-4 ps-lg-5 pe-4 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left"
                         data-aos-delay="100">
                         <div class="content d-flex flex-column justify-content-center">
-                            <h3>Voluptatem dignissimos provident quasi</h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                            </p>
-                            <div class="row">
-                                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                                    <div class="count-box">
-                                        <i class="bi bi-emoji-smile"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="65"
-                                            data-purecounter-duration="2" class="purecounter"></span>
-                                        <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam
-                                            architecto ut.</p>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                                    <div class="count-box">
-                                        <i class="bi bi-journal-richtext"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="85"
-                                            data-purecounter-duration="2" class="purecounter"></span>
-                                        <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium
-                                            et quia dere tan</p>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                                    <div class="count-box">
-                                        <i class="bi bi-clock"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="35"
-                                            data-purecounter-duration="4" class="purecounter"></span>
-                                        <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam
-                                            ducimus aut voluptate non vel</p>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                                    <div class="count-box">
-                                        <i class="bi bi-award"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="20"
-                                            data-purecounter-duration="4" class="purecounter"></span>
-                                        <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et
-                                            nemo pad der</p>
-                                    </div>
-                                </div>
+                            <h3>Rules in Villa Melati Garden</h3>
+                                <ul>
+                                    <li class="black-text"
+                                        > Check-in jam 13.00, Check-out jam 12.00
+                                    </li>
+                                    <li class="black-text"
+                                        > Pembayaran Villa harus sudah lunas pada saat check-in.
+                                    </li>
+                                    <li class="black-text"
+                                        > Lokasi Villa Melati Garden berada di area permukiman warga,
+                                        diharapkan tamu tidak menimbulkan kesan kerumunan seperti sorak-sorai dan berteriak-teriak yg mengganggu warga.
+                                    </li>
+                                    <li class="black-text"
+                                        > Sound System, Electone, atau berkaraoke hanya di perkenankan dari pagi hingga jam 18.00 (sebelum magrib).
+                                    </li>
+                                    <li class="black-text"
+                                        > Membawa Sound System, Keyboard dll. dikenakan biaya Tambahan.
+                                    </li>
+                                    <li class="black-text"
+                                        > Acara berenang dan barbeque di Area Taman hanya diperkenankan hingga jam 21.00
+                                    </li>
+                                    <li class="black-text"
+                                        > Kegiatan yg diikuti oleh peserta lebih dari 20 orang, sebaiknya dilakukan di Aula.
+                                    </li>
+                                    <li class="black-text"
+                                        > Kegiatan wedding, lamaran, ulang tahun, reuni dll dengan jumlah tamu lebih dari 40 orang, hrs mengajukan izin kepada tetangga.
+                                    </li>
                             </div>
-                        </div><!-- End .content-->
+
+                        </div><!-- End peraturan section-->
                     </div>
                 </div>
 
@@ -514,8 +437,6 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
-                                    alt="">
                                 <h3>RAFLY DWIPUTRA NOOR FADHILA</h3>
                                 <h4>Project Manager</h4>
                                 <p>
@@ -532,8 +453,7 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
-                                    alt="">
+
                                 <h3>AFTA ALFADHILLA</h3>
                                 <h4>Designer</h4>
                                 <p>
@@ -548,8 +468,7 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img"
-                                    alt="">
+
                                 <h3>MUHAMMAD AKBAR DWI PUTRA</h3>
                                 <h4>Store Owner</h4>
                                 <p>
@@ -564,8 +483,7 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img"
-                                    alt="">
+
                                 <h3>MEISYA ROBIATUL ADAWIYAH</h3>
                                 <h4>Freelancer</h4>
                                 <p>
@@ -578,8 +496,6 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img"
-                                    alt="">
                                 <h3>AULIA NISA'HAFIDZ</h3>
                                 <h4>Entrepreneur</h4>
                                 <p>
@@ -596,94 +512,6 @@
 
             </div>
         </section><!-- End Testimonials Section -->
-
-        <!-- ======= Team Section ======= -->
-        <section id="team" class="team">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                    <h2>Team</h2>
-                    <p>Check our Team</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="100">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Mamam</h4>
-                                <span>Chief Executive Officer</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="200">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
-                                <span>Product Manager</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="300">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>William Anderson</h4>
-                                <span>CTO</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="400">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Amanda Jepson</h4>
-                                <span>Accountant</span>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Team Section -->
 
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="contact">
