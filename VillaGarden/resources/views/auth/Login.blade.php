@@ -234,7 +234,7 @@ input[type="email"], input[type="password"] {
         <div class="form-container sign-up">
         </div>
         <div class="form-container sign-in">
-            <form>
+            <form
                 <h1>Login To Your Account</h1>
                 <input type="email" placeholder="Email">
                 <input type="password" placeholder="Password">
